@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/desse/source/repos/TelemetryViewer/TelemetryViewer/Content/Fonts/BaseFont.spritefont","C:/Users/desse/source/repos/TelemetryViewer/TelemetryViewer/Content/bin/Windows/Fonts/BaseFont.xnb","FontDescriptionProcessor","SpriteFontContent",2007,70690,0,3645954
+"C:/Users/desse/source/repos/TelemetryViewer/TelemetryViewer/Content/Fonts/Small.spritefont","C:/Users/desse/source/repos/TelemetryViewer/TelemetryViewer/Content/bin/Windows/Fonts/Small.xnb","FontDescriptionProcessor","SpriteFontContent",2005,21538,0,0928945
+"C:/Users/desse/source/repos/TelemetryViewer/TelemetryViewer/Content/Sprites/needle.png","C:/Users/desse/source/repos/TelemetryViewer/TelemetryViewer/Content/bin/Windows/Sprites/needle.xnb","TextureProcessor","Texture2DContent",15560,636061,0,0389552
+"C:/Users/desse/source/repos/TelemetryViewer/TelemetryViewer/Content/Sprites/tacho.png","C:/Users/desse/source/repos/TelemetryViewer/TelemetryViewer/Content/bin/Windows/Sprites/tacho.xnb","TextureProcessor","Texture2DContent",1457618,1440085,0,0708592
