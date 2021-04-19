@@ -3,8 +3,9 @@
 Work in progres
 
 TO DO:
-- finish main gauges
-- timings screen
-- cars status screen
-- dynamic backgrounds
-- get rid of placeholders
+- [x] temp&flag panel
+- [ ] main gauges panel
+- [ ] timings panel
+- [ ] cars status panel
+- [ ] dynamic backgrounds
+- [ ] get rid of placeholders
